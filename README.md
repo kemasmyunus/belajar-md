@@ -1,1 +1,14 @@
-# belajar-md
+# Materi Belajar Markdown
+
+Markdown adalah bahasa markup ringan yang digunakan untuk memformat teks dengan cara yang sederhana dan mudah dibaca.
+
+Gunakan tanda `#` untuk membuat heading:
+```markdown
+# Heading 1
+## Heading 2
+### Heading 3
+```
+Hasil:
+# Heading 1
+## Heading 2
+### Heading 3
