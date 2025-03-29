@@ -48,10 +48,11 @@ Gunakan tanda backtick (`) untuk menampilkan kode:
 `ini kode` → `ini kode`
 ```
 Untuk kode blok:
-```markdown
 ```
+'''markdown
 print("Hello, Markdown!")
-```
+
+'''
 ```
 Hasil:
 ```
