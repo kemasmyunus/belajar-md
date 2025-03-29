@@ -18,3 +18,15 @@ Gunakan format berikut untuk teks:
 - *Miring*: `*teks miring*` → *teks miring*
 - ~~Coret~~: `~~teks coret~~` → ~~teks coret~~
 
+
+Untuk daftar:
+- **Daftar tak berurut** (unordered list):
+```markdown
+- Item 1
+- Item 2
+  - Sub-item
+```
+Hasil:
+- Item 1
+- Item 2
+  - Sub-item
