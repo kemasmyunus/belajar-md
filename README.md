@@ -73,3 +73,12 @@ Hasil:
 | Bob   | 30   |
 
 Markdown adalah alat yang sangat berguna untuk menulis dokumentasi, catatan, dan konten web dengan format yang mudah dibaca dan ditulis.
+
+memnambahkan catatan :
+
+```md
+> **Catatan:** Ini adalah catatan penting yang bisa dibaca oleh siapa saja.
+Hasilnya (di GitHub, VS Code, dll):
+```
+Hasilnya :
+> Catatan: Ini adalah catatan penting yang bisa dibaca oleh siapa saja.
