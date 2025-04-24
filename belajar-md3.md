@@ -57,3 +57,43 @@ Heading 2
 ---------
 
 ---
+
+### Tips Penulisan README.md di GitHub
+
+README.md biasanya berisi:
+
+1. **Judul Project**
+2. **Deskripsi Singkat**
+3. **Cara Instalasi**
+4. **Contoh Penggunaan**
+5. **Fitur-Fitur**
+6. **Lisensi**
+
+Contoh sederhana:
+
+```markdown
+# Nama Proyek
+
+Deskripsi singkat tentang proyek.
+
+## Instalasi
+
+```bash
+git clone https://github.com/username/proyek.git
+cd proyek
+```
+
+## Penggunaan
+
+```bash
+python main.py
+```
+
+## Fitur
+
+- ✅ Fitur 1
+- 🚀 Fitur 2
+
+## Lisensi
+
+[MIT License](LICENSE)
