@@ -25,3 +25,35 @@ Hasil:
 Ini adalah [tautan referensi](https://www.google.com).
 
 ---
+
+### Escaping Karakter Khusus
+
+Kalau kamu ingin menampilkan karakter khusus seperti `*`, `_`, atau `#` tanpa memicu format Markdown, gunakan `\`:
+
+```markdown
+\*teks ini tidak ditebalkan\*
+```
+Hasil:
+\*teks ini tidak ditebalkan\*
+
+---
+
+### Merapikan Tampilan Heading (Setext-style)
+
+Markdown juga mendukung heading alternatif (khusus Heading 1 dan 2):
+
+```markdown
+Heading 1
+=========
+
+Heading 2
+---------
+```
+Hasil:
+Heading 1  
+=========
+
+Heading 2  
+---------
+
+---
