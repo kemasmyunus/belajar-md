@@ -48,3 +48,17 @@ Beberapa contoh bahasa yang bisa digunakan:
 - `kotlin` dan lainnya
 
 ---
+
+### Membuat Konten Interaktif dengan Markdown (khusus platform tertentu)
+
+Beberapa platform seperti Jupyter Notebook atau GitHub Pages dengan Jekyll memungkinkan penggunaan Markdown yang lebih interaktif, seperti:
+- Menambahkan grafik
+- Embed video (pakai HTML)
+- Navigasi antar halaman (dengan link Markdown)
+
+Contoh menyisipkan video YouTube:
+```html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+```
+
+---
