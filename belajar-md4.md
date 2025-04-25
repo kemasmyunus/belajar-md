@@ -62,3 +62,14 @@ Contoh menyisipkan video YouTube:
 ```
 
 ---
+
+### Markdown di Notion dan Platform Lain
+
+Markdown juga digunakan di:
+- **Notion** (untuk format cepat dengan shortcut Markdown)
+- **Obsidian** (aplikasi catatan berbasis Markdown)
+- **VS Code** (preview file `.md`)
+- **Hugo/Jekyll** (static site generator)
+- **Discord**, **Reddit**, dan **Telegram** (dukungan sebagian)
+
+---
