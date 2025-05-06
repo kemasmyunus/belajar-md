@@ -42,3 +42,23 @@ Jika gambar ada di repositori:
 ```
 
 ---
+
+### Link Internal dan Eksternal
+
+Gunakan link Markdown untuk navigasi ke:
+
+* **Halaman eksternal**:
+
+  ```markdown
+  [Kunjungi GitHub](https://github.com)
+  ```
+
+* **File atau bagian dalam dokumen**:
+
+  ```markdown
+  [Lihat Bagian Fitur](#fitur)
+  ```
+
+Pastikan teks yang dituju di heading tidak diubah, karena tautan internal bergantung pada itu.
+
+---
