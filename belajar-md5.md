@@ -62,3 +62,25 @@ Gunakan link Markdown untuk navigasi ke:
 Pastikan teks yang dituju di heading tidak diubah, karena tautan internal bergantung pada itu.
 
 ---
+
+### Menulis Tabel di Markdown
+
+Markdown mendukung pembuatan tabel sederhana:
+
+```markdown
+| Bahasa     | Digunakan Untuk        |
+|------------|------------------------|
+| Python     | Data science, backend  |
+| JavaScript | Web development        |
+| Kotlin     | Android development    |
+```
+
+Hasil:
+
+| Bahasa     | Digunakan Untuk       |
+| ---------- | --------------------- |
+| Python     | Data science, backend |
+| JavaScript | Web development       |
+| Kotlin     | Android development   |
+
+---
