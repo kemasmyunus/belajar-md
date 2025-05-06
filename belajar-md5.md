@@ -20,3 +20,25 @@ Contoh struktur heading yang baik:
 
 ---
 
+
+### Menambahkan Gambar di Markdown
+
+Markdown mendukung penyisipan gambar dengan sintaks berikut:
+
+```markdown
+![Deskripsi gambar](URL_gambar)
+```
+
+Contoh:
+
+```markdown
+![Logo Markdown](https://markdown-here.com/img/icon256.png)
+```
+
+Jika gambar ada di repositori:
+
+```markdown
+![Diagram](./images/diagram.png)
+```
+
+---
