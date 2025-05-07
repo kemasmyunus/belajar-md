@@ -38,3 +38,33 @@ GitHub akan merender emoji yang didukung, misalnya:
 Untuk daftar lengkap emoji GitHub, kamu bisa melihat di: [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 
 ---
+
+### Menulis Quote dan Catatan
+
+Gunakan tanda `>` untuk membuat blockquote:
+
+```markdown
+> Ini adalah kutipan penting dari dokumentasi.
+```
+
+Hasil:
+
+> Ini adalah kutipan penting dari dokumentasi.
+
+Bisa juga digunakan untuk menulis **catatan**, **peringatan**, atau **tips** (bergantung pada gaya dokumentasi):
+
+```markdown
+> **Catatan:** Pastikan environment sudah disiapkan sebelum menjalankan perintah ini.
+```
+
+---
+
+### Kesimpulan
+
+Markdown adalah alat ringan namun sangat powerful untuk menulis dokumentasi, README, catatan teknis, dan masih banyak lagi. Dengan memahami fitur-fitur GitHub Flavored Markdown (GFM), kamu bisa:
+
+* Membuat dokumentasi yang lebih interaktif dan terstruktur
+* Berkolaborasi lebih efisien melalui GitHub
+* Menyusun catatan pribadi atau publik dengan tampilan yang rapi
+
+---
